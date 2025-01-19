@@ -59,6 +59,10 @@ This is a shopping cart application built with React, Redux, and Vite. It allows
 - Vite
 - CSS
 
+## Want a project overview 
+ ([Click here](https://shoping-cart-chi.vercel.app/))
+   
+   
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
@@ -68,4 +72,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
-
